@@ -1,0 +1,7 @@
+D:\AKKI_DEV\RND\SOLID\InterfaceSegregation\bin\Debug\InterfaceSegregation.exe.config
+D:\AKKI_DEV\RND\SOLID\InterfaceSegregation\bin\Debug\InterfaceSegregation.exe
+D:\AKKI_DEV\RND\SOLID\InterfaceSegregation\bin\Debug\InterfaceSegregation.pdb
+D:\AKKI_DEV\RND\SOLID\InterfaceSegregation\obj\Debug\InterfaceSegregation.csprojResolveAssemblyReference.cache
+D:\AKKI_DEV\RND\SOLID\InterfaceSegregation\obj\Debug\InterfaceSegregation.csproj.CoreCompileInputs.cache
+D:\AKKI_DEV\RND\SOLID\InterfaceSegregation\obj\Debug\InterfaceSegregation.exe
+D:\AKKI_DEV\RND\SOLID\InterfaceSegregation\obj\Debug\InterfaceSegregation.pdb

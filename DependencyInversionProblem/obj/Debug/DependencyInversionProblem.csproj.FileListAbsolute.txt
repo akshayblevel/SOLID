@@ -1,0 +1,6 @@
+D:\AKKI_DEV\RND\SOLID\DependencyInversionProblem\bin\Debug\DependencyInversionProblem.exe.config
+D:\AKKI_DEV\RND\SOLID\DependencyInversionProblem\bin\Debug\DependencyInversionProblem.exe
+D:\AKKI_DEV\RND\SOLID\DependencyInversionProblem\bin\Debug\DependencyInversionProblem.pdb
+D:\AKKI_DEV\RND\SOLID\DependencyInversionProblem\obj\Debug\DependencyInversionProblem.csproj.CoreCompileInputs.cache
+D:\AKKI_DEV\RND\SOLID\DependencyInversionProblem\obj\Debug\DependencyInversionProblem.exe
+D:\AKKI_DEV\RND\SOLID\DependencyInversionProblem\obj\Debug\DependencyInversionProblem.pdb

@@ -1,0 +1,7 @@
+D:\AKKI_DEV\RND\SOLID\SingleResponsibility\bin\Debug\SingleResponsibility.exe.config
+D:\AKKI_DEV\RND\SOLID\SingleResponsibility\bin\Debug\SingleResponsibility.exe
+D:\AKKI_DEV\RND\SOLID\SingleResponsibility\bin\Debug\SingleResponsibility.pdb
+D:\AKKI_DEV\RND\SOLID\SingleResponsibility\obj\Debug\SingleResponsibility.csproj.CoreCompileInputs.cache
+D:\AKKI_DEV\RND\SOLID\SingleResponsibility\obj\Debug\SingleResponsibility.exe
+D:\AKKI_DEV\RND\SOLID\SingleResponsibility\obj\Debug\SingleResponsibility.pdb
+D:\AKKI_DEV\RND\SOLID\SingleResponsibility\obj\Debug\SingleResponsibility.csprojResolveAssemblyReference.cache

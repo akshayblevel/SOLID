@@ -1,0 +1,7 @@
+D:\AKKI_DEV\RND\SOLID\LiskovSubstitution\bin\Debug\LiskovSubstitution.exe.config
+D:\AKKI_DEV\RND\SOLID\LiskovSubstitution\bin\Debug\LiskovSubstitution.exe
+D:\AKKI_DEV\RND\SOLID\LiskovSubstitution\bin\Debug\LiskovSubstitution.pdb
+D:\AKKI_DEV\RND\SOLID\LiskovSubstitution\obj\Debug\LiskovSubstitution.csprojResolveAssemblyReference.cache
+D:\AKKI_DEV\RND\SOLID\LiskovSubstitution\obj\Debug\LiskovSubstitution.csproj.CoreCompileInputs.cache
+D:\AKKI_DEV\RND\SOLID\LiskovSubstitution\obj\Debug\LiskovSubstitution.exe
+D:\AKKI_DEV\RND\SOLID\LiskovSubstitution\obj\Debug\LiskovSubstitution.pdb

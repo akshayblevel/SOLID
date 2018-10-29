@@ -1,0 +1,6 @@
+D:\AKKI_DEV\RND\SOLID\DependencyInversion\bin\Debug\DependencyInversion.exe.config
+D:\AKKI_DEV\RND\SOLID\DependencyInversion\bin\Debug\DependencyInversion.exe
+D:\AKKI_DEV\RND\SOLID\DependencyInversion\bin\Debug\DependencyInversion.pdb
+D:\AKKI_DEV\RND\SOLID\DependencyInversion\obj\Debug\DependencyInversion.csproj.CoreCompileInputs.cache
+D:\AKKI_DEV\RND\SOLID\DependencyInversion\obj\Debug\DependencyInversion.exe
+D:\AKKI_DEV\RND\SOLID\DependencyInversion\obj\Debug\DependencyInversion.pdb

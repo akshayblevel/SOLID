@@ -1,0 +1,7 @@
+D:\AKKI_DEV\RND\SOLID\OpenClosedProblem\bin\Debug\OpenClosedProblem.exe.config
+D:\AKKI_DEV\RND\SOLID\OpenClosedProblem\bin\Debug\OpenClosedProblem.exe
+D:\AKKI_DEV\RND\SOLID\OpenClosedProblem\bin\Debug\OpenClosedProblem.pdb
+D:\AKKI_DEV\RND\SOLID\OpenClosedProblem\obj\Debug\OpenClosedProblem.csprojResolveAssemblyReference.cache
+D:\AKKI_DEV\RND\SOLID\OpenClosedProblem\obj\Debug\OpenClosedProblem.csproj.CoreCompileInputs.cache
+D:\AKKI_DEV\RND\SOLID\OpenClosedProblem\obj\Debug\OpenClosedProblem.exe
+D:\AKKI_DEV\RND\SOLID\OpenClosedProblem\obj\Debug\OpenClosedProblem.pdb
